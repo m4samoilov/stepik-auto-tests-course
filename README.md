@@ -1,3 +1,2 @@
 # stepik-auto-tests-course
-homework fr Stepik
-only auto-tests
+Репозиторий для хранения домашник работ по курсу "Автоматизация тестирования с помощью Selenium и Python": https://stepik.org/course/575/syllabus
